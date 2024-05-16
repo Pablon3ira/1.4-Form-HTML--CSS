@@ -1,0 +1,13 @@
+form {
+    margin: 20px auto;
+    padding: 3%;
+    width: 700px;
+    border: 2px solid black;
+    border-radius: 1em;
+
+}
+
+label {
+
+    font-weight: 10;
+}
